@@ -26,4 +26,4 @@ The source and supplied testbench are included, but this repository preparation 
 
 ## Notes
 
-This is a coursework implementation, not a production multiplier IP. Please add the course specification and full design explanation only after checking that they do not disclose private student identifiers or material belonging to other contributors.
+This is a coursework implementation, not a production multiplier IP. 
